@@ -16,7 +16,7 @@ body {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    width: 350px;
+    width: 325px;
     height: 500px;
     background-color: white;
     padding: 15px;
@@ -31,7 +31,7 @@ img {
 }
 
 .text {
-    padding: 0 20px;
+    padding: 0 18px;
 }
 
 h1 {
@@ -46,4 +46,5 @@ p {
     text-align: center;
     color: hsl(218, 44%, 22%);
     opacity: 0.7;
+    padding: 0 5px;
 }
